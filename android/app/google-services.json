@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212693672863",
+    "project_id": "invisto-b9695",
+    "storage_bucket": "invisto-b9695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212693672863:android:acf9afd73420a0e71913aa",
+        "android_client_info": {
+          "package_name": "com.example.invisto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdh6En3YIbRnu_FmDc1BEbvQIIpTCG0GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212693672863:android:901a2a0f753d7e1c1913aa",
+        "android_client_info": {
+          "package_name": "com.invisto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdh6En3YIbRnu_FmDc1BEbvQIIpTCG0GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
